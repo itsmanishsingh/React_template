@@ -11,7 +11,7 @@
 2. Learned the way to add CSS to the program.
 3. Learned the basic concept of **Props**.
 4. Implemented the <b>Bootstraps</b> and <b>Tailwind CSS</b>.
-5. Tried to make a templates.
+5. I Completed the this template using react.
 
 
 
