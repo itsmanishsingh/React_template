@@ -12,7 +12,7 @@
 3. Learned the basic concept of **Props**.
 4. Implemented the <b>Bootstraps</b> and <b>Tailwind CSS</b>.
 5. Tried to make a templates.
-6. 
+
 
 
 # Profile
